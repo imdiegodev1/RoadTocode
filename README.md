@@ -1,6 +1,6 @@
-# Basic Python exercise
+#Python
 
-This repository are different exercises that I use to teach about Python programming. Among the files you can find:
+This repository has different exercises that I use to teach about Python programming. Among the files you can find:
 
 -	The basics: #HelloWorld, data types, list, tuples, strings and dictionaries.
 -   If statement, operators, for and while bucle.
