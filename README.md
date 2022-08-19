@@ -2,14 +2,11 @@
 
 This repository are different exercises that I use to teach about Python programming. Among the files you can find:
 
--	#Helloworld, ideal para ver la sintaxis básica del lenguaje Python.
--	Ejercicio de iteraciones y listas.
--	Ejercicios para el entendimiento de la lógica de rangos y tuplas.
--	Funcionalidad de diccionarios.
--	Varios ejercicios ejemplificando el uso de funciones.
--	Uso de excepciones.
--	Búsqueda binaria.
--	Enumeración exhaustiva.
--	Prueba de funcionalidad de caja de cristal y caja negra.
+-	The basics: #HelloWorld, data types, list, tuples, strings and dictionaries.
+-   If statement, operators, for and while bucle.
+-	Functions, iterators and ranges.
+-   Sorting algorithms, Try-Except and searching algorithms.
+-	Classes and OOP.
+-	Bonus: a folder with some common excercises used in technical interviews.
 
 I hope they can be of much help if you are just starting in this world or if you want to practice a little.
