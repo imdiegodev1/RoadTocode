@@ -57,3 +57,18 @@ elif opcion == 3:
     busqueda_binaria(numero)
 else:
     print('No es una opcion valida')
+
+numero = int(input('Define un numero: '))
+
+def factorial(n):
+    """Calcula el factorial de n.
+    n int > 0
+    returns n!
+    """
+    print(n)
+    if n == 1:
+        return 1
+    
+    return n*factorial(n-1)
+
+print(factorial(numero))

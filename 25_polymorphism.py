@@ -18,7 +18,7 @@ def main():
     personita = Persona('Diego')
     personita.avanza()
 
-    ciclista = Ciclista('Angelica')
+    ciclista = Ciclista('blue')
     ciclista.avanza()
 
 if __name__ == '__main__':

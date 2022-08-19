@@ -1,4 +1,5 @@
 import random
+
 def run():
     numero_aleatorio = random.randint(1, 101)
     numero_elejido = int(input('Elije un numero del 1 al 100: '))

@@ -1,3 +1,0 @@
-I am a data analyst at Derco Colombia: a Chilean company that have the representation of globally recognized brands such as Citroen, Suzuki and Still here in Colombia.
-As a Data analyst I am focused on market and financial internal data and reports that help the management of the company and the understanding of market behavior.
-For my daily activities I use different Softwares as Alteryx and Access for ETL, Tableau and Power BI for data presentation or dashboard creations. Also I have plenty experience using different data engines as Workbench and PostgreSQL. To finish I am a data science student at Platzi.
