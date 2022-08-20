@@ -1,12 +1,18 @@
-my_dict = {                     ##Asi se define un diccionario de nombres y edades
+my_dict = {                     ##Define a Dictionary
     'David': 35,
     'Erika': 32,
     'Jaime' : 50,
 }
 
 
-##Eliminar valores segun una condicion de llave
-string_dict= {('start', 'requiring'): 1, ('requiring', 'sellers'): 8, ('sellers', 'post'): 14, ('post', 'honestly'): 1, ('honestly', '('): 15, ('(', 'especially'): 8, ('especially', 'those'): 2, ('those', 'china'): 1}
+string_dict= {('start', 'requiring'): 1,        ##Define a more complex dictionary
+              ('requiring', 'sellers'): 8,
+              ('sellers', 'post'): 14,
+              ('post', 'honestly'): 1,
+              ('honestly', '('): 15,
+              ('(', 'especially'): 8,
+                ('especially', 'those'): 2,
+                ('those', 'china'): 1}
 
 new_string = {key: value for key, value in string_dict.items() if value <= 1}
 print(new_string)

@@ -1,20 +1,21 @@
-my_tuple = (1, 'dos', True)
+my_tuple = (1, 'dos', True)         #Declare a tuple
 
 print(type(my_tuple))
 print(my_tuple[2])
 
-my_tuple2 = (1,)    ##Es muy importante que si una tupla tiene solo un elemento su definicion tenga este formato
+my_tuple2 = (1,)                    ##Declare a tuple with just one element
 
-x, y, z = my_tuple   ##Esta es la forma de asignarle una variable a cada valor de la tupla para desempaquetar la tupla
+x, y, z = my_tuple                  ##Assign a variable name to each element of the tuple
 
-print(x)             ##Aqui llamo los valores desempaquetados de una tupla
+print(x)                            ##Call each element
 
-def coordenadas():
+##Starting with functions
+def coordinates():
     return (5, 4)
 
-coordenada = coordenadas()
+coordenada = coordinates()
 
 print (coordenada)
 
-a, b = coordenadas ()
+a, b = coordinates()
 print (a)

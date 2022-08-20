@@ -1,46 +1,30 @@
-def double_word(word):
-    word = word*2+str(len(word))
-    return word
+x = "Hello World"               ##Declare a string
 
-def first_and_last (message):
-    if message == "":
-        return True
-    elif message[0] == message[-1]:
-        return True
-    else:
-        return False
+letter = x[0]                   ##Get a character of the string specifying its position
 
-def initials(phrase):
-    words = phrase.upper().split()
-    result = ""
-    for word in words:
-        result += words
-    return word
+length = len(x)                 ##Length of the string
 
-print(double_word("Hello"))
-print(first_and_last(""))
-##print(initials("Universal Serial Bus"))
-print("Universal Serial Bus".split())
+check = "hello" in x            ##Check if a word or letter is in string (case sensitive)
 
-animal = "Hippopotamus"
-print(animal[3:6])
-print(animal[-5])
-print(animal[10:])
+check2= "cat" not in x          ##Check if a word or letter is not in string (case sensitive)
 
-def count_letters(text):
-  result = {}
-  text = text.lower()
-  # Go through each letter in the text
-  for letter in text:
-   
-    # Check if the letter needs to be counted or not
-    if letter.isalpha() :
-      # Add or increment the value in the dictionary
-      count = text.count(letter)
-      result[letter] = count
-  return result
+y = x +" "+"This is a test"     ##Concatenating strings
 
-print(count_letters("AaBbCc"))
-# Should be {'a': 2, 'b': 2, 'c': 2}
+##Slicing a string
+first_word = x[:5]
 
-print(count_letters("Math is fun! 2+2=4"))
+last_word = x[6:]
+
+last_letter = x[-1]
+
+##Modify string
+upper_case = x.upper()
+
+lower_case = x.lower()
+
+remove_space = x.strip()
+
+replace_part = x.replace("H", "J")  ##Case sensitive
+
+split = x.split(" ")            ##Define the character you want to use to split. Returns a list.
+
