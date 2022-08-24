@@ -1,41 +1,31 @@
-##Los diccionarios se definen con {}
-x = {"jpg":10,"txt":14,"csv":2,"py":23}
+x = {"jpg":10,"txt":14,"csv":2,"py":23}             ##Remember
 print(x)
-##La logica de los diccionarios es muy similar a los strings y listas.
-##Aqui algunos ejemplos para ilustrar
+
+##Remember
 print(x["txt"])
 print("jpg" in x)
 print("html" in x)
-x["cfg"] = 8    ##Agregar un nuevo elemento al diccionario
-print(x)
-x["csv"] = 17   ##Si agrego un elemento existente va a actualizar el valor
-print(x)
-del x["cfg"]    ##Eliminar un elemento del diccionario
+
+x["cfg"] = 8            ##Add a new element
 print(x)
 
-##Iteraciones con diccionarios
-##Volvemos a utilizar el diccioanrio x
+x["csv"] = 17           ##update the value of an element
+print(x)
 
-for extencion in x:     ##Imprimir solo las llaves de los diccioanrios
-    print(extencion)
+del x["cfg"]            ##Delete an element
+print(x)
 
-for value in x.values():
-    print(value)
-
-for ext, amount in x.items():
-    print("Aqui hay {} archivos con el .{} extencion".format(amount, ext))
-
-##como sea, hay dos metodos para acceder o a las llaves
-##o a los valores
-print(x.keys())
-print(x.values())
+print(x.keys())          ##Remember how to get keys
+print(x.values())        ##Remember how to get values
 
 cool_beasts = {"octopuses":"tentacles", "dolphins":"fins", "rhinos":"horns"}
-for animal, cualidad in cool_beasts.items():
+
+for animal, cualidad in cool_beasts.items():            ##Iterate and use strings to present a results
     print("{} have {}".format(animal, cualidad))
 
-##contar el numero de letras en un string y
-##mostrarlas en un diccionario
+##Excersice
+##Count amount of letters in a string
+##return the value in a dictionary
 def contar_letras(texto):
     resultado = {}
     for letras in texto:
@@ -44,7 +34,7 @@ def contar_letras(texto):
         resultado[letras] += 1
     return resultado
 
-print(contar_letras("iterando con diccionarios"))
+print(contar_letras("iterating with dictionaries"))
 
 
 host_addresses = {"router": "192.168.1.1", "localhost": "127.0.0.1", "google": "8.8.8.8"}
@@ -61,9 +51,3 @@ Taylors_guests = { "David":4, "Nancy":1, "Robert":2, "Adam":1, "Samantha":3, "Ch
 
 print(combine_guests(Rorys_guests, Taylors_guests))
 
-def highlight_word(sentence, word):
-	return(sentence.replace(word,word.upper()))
-
-print(highlight_word("Have a nice day", "nice"))
-print(highlight_word("Shhh, don't be so loud!", "loud"))
-print(highlight_word("Automating with Python is fun", "fun"))
