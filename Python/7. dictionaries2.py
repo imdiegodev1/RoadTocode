@@ -6,21 +6,21 @@ print(x["txt"])
 print("jpg" in x)
 print("html" in x)
 
-x["cfg"] = 8            ##Add a new element
+x["cfg"] = 8                                        ##Add a new element
 print(x)
 
-x["csv"] = 17           ##update the value of an element
+x["csv"] = 17                                       ##update the value of an element
 print(x)
 
-del x["cfg"]            ##Delete an element
+del x["cfg"]                                        ##Delete an element
 print(x)
 
-print(x.keys())          ##Remember how to get keys
-print(x.values())        ##Remember how to get values
+print(x.keys())                                     ##Remember how to get keys
+print(x.values())                                   ##Remember how to get values
 
 cool_beasts = {"octopuses":"tentacles", "dolphins":"fins", "rhinos":"horns"}
 
-for animal, cualidad in cool_beasts.items():            ##Iterate and use strings to present a results
+for animal, cualidad in cool_beasts.items():        ##Iterate and use strings to present a results
     print("{} have {}".format(animal, cualidad))
 
 ##Excersice

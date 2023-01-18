@@ -1,67 +1,48 @@
-def enumeracion (objetivo):
-    respuesta=0
-
-    while respuesta**2 < objetivo:
-        print(respuesta)
-        respuesta += 1
+def enumeration (target):
     
-    if respuesta**2 == objetivo:
-        print(f'La raiz cuadrada de {objetivo} es {respuesta}')
-    else:
-        print(f'{objetivo} no tiene una raiz cuadrada exacta')
+    answ=0
 
-def aproximacion (objetivo):
-    epsilon = 0.01
-    paso = epsilon**2
-    respuesta = 0.0
-
-    while abs(respuesta**2 - objetivo) >= epsilon and respuesta <= objetivo:
-        print(abs(respuesta**2 - objetivo))
-        respuesta += paso
-
-    if abs(respuesta**2 - objetivo) >= epsilon:
-        print(f'No se encontro la raiz cuadrada {objetivo}')
-    else:
-        print (f'La raiz cuadrada de {objetivo} es {respuesta}')
-
-def busqueda_binaria (objetivo):
-    epsilon = 0.01
-    bajo = 0.0
-    alto = max(1.0, objetivo)
-    respuesta = (alto + bajo)/2
-
-    while abs(respuesta**2 - objetivo) >= epsilon:
-        print(f'bajo= {bajo}, alto = {alto}, respuesta= {respuesta}')
-        if respuesta**2 < objetivo:
-            bajo = respuesta
-        else:
-            alto = respuesta
+    while answ**2 < target:
+        print(answ)
+        answ += 1
     
-        respuesta = (alto + bajo)/2
+    if answ**2 == target:
+        print(f'The square root of {target} is {answ}')
+    else:
+        print(f'{target} no tiene una raiz cuadrada exacta')
 
-    print(f'La raiz cuadrada de {objetivo} es {respuesta}')
+def aproximation (target):
+    epsilon = 0.01
+    step = epsilon**2
+    answ = 0.0
 
-opcion = int(input('Escoja una forma de encontrar la raiz: \n 1. enumeracion. \n 2. aproximacion \n 3. busqueda binaria \n'))
+    while abs(answ**2 - target) >= epsilon and answ <= target:
+        print(abs(answ**2 - target))
+        answ += step
+
+    if abs(answ**2 - target) >= epsilon:
+        print(f'The square root was not found. {target}')
+    else:
+        print(f'The square root of {target} is {answ}')
+
+opcion = int(input('Choose a way to find the root: \n 1. enumeration. \n 2. approximation \n'))
 
 if opcion == 1:
-    print ('1. Enumeracion')
-    numero = int(input('Escoge un numero: '))
-    enumeracion(numero)
+    print ('1. enumeration')
+    numero = int(input('choose a number: '))
+    enumeration(numero)
 elif opcion == 2:
-    print ('2. aproximacion')
-    numero = int(input('Escoge un numero: '))
-    aproximacion(numero)
-elif opcion == 3:
-    print ('3. busqueda binaria')
-    numero = int(input('Escoge un numero: '))
-    busqueda_binaria(numero)
-else:
-    print('No es una opcion valida')
+    print ('2. aproximation')
+    numero = int(input('choose a number: '))
+    aproximation(numero)
 
-numero = int(input('Define un numero: '))
+else:
+    print('Not a valid option')
+
+numero = int(input('Define a number: '))
 
 def factorial(n):
-    """Calcula el factorial de n.
+    """Calculates the factorial of n.
     n int > 0
     returns n!
     """

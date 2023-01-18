@@ -1,18 +1,14 @@
-def run():
-    x = 0
-    i = 0
-    while x <= 1000 and i <= 1000:   ## imprimir todos las potencias de 2 hasta 1000
-        x += 1
-        i = 2 ** (x)
-        print (i)
-    print('Programa terminado')
+x = 0
+i = 0
 
-if __name__ == "__main__":
-    run()
+while x <= 1000 and i <= 1000:          ##print all powers from 2 to 1000
+    x += 1
+    i = 2 ** (x)
+    print (i)
 
-#print([el for el in range(10) if el % 2 ==0])
+day = 0    
+week = ['mon', 'thu', 'wen', 'thr', 'fri', 'sat', 'sun']
 
-#global = 'hello'
-#print (global)
-
-print(5//2)
+while day < 7:
+   print("today is " + week[day])       ##print days of week
+   day += 1
