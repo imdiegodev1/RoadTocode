@@ -1,51 +1,51 @@
+
+##Itera through lists
 my_list = [1,2,3,4,5]
 my_iter = iter(my_list)
 
-for element in my_list:
+for element in my_list:                         ##Whit for loop
     print(element)
 
-#print(type(my_iter))
+##Extract elements
+print(next(my_iter))                            ##Whit next statement
 
-##Extraer elementos
-
-print(next(my_iter))
-
-#Loop sencillo
+##Easy loop
 contador = 0
-while contador < 10:
+while contador < 10:                            ##Whit while bucle
     print(contador)
     contador += 1
 
-#loop compuesto
+##compound loop
+counter_external = 0
+counter_internal = 0
 
-contador_externo = 0
-contador_interno = 0
+while counter_external < 5:
+    while counter_internal < 6:
+        print (counter_external, counter_internal)
+        counter_internal += 1
 
-while contador_externo < 5:
-    while contador_interno < 6:
-        print (contador_externo, contador_interno)
-        contador_interno += 1
-
-        if contador_interno >= 3:
+        if counter_internal >= 3:
             break
 
-    contador_externo += 1
-    contador_interno = 0
+    counter_external += 1
+    counter_internal = 0
 
+
+##Itera through dictionaries
 estudiantes = {
     'mexico': 10,
     'Colombia': 15,
     'Panama': 4
-}                    ##Define el diccionario
+}                                               ##Define dictionary
 
 for pais in estudiantes:
-    print(pais)      ##Imprime solo los paises que en este caso son las llaves del diccionario
+    print(pais)                                 ##Prints only the countries which in this case are the dictionary keys.
 
 for pais in estudiantes.keys():
-    print(pais)      ##llama directamente las llaves, en el aterior tambien pero esta mas explicito
+    print(pais)                                 ##calls directly the keys, in the previous one also, but it is more explicit.
 
 for n_estudiantes in estudiantes.values():
-    print(n_estudiantes)   ##llama al valor de las llaves
+    print(n_estudiantes)                        ##calls the value of the keys
 
 for pais, n_estudiantes in estudiantes.items():
-    print(pais, n_estudiantes) ##llama las llaves y al valor de forma consecutiva
+    print(pais, n_estudiantes)                  ##calls the keys and the value consecutively
