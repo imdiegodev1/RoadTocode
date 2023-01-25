@@ -30,5 +30,14 @@ In my way to learn more about programming languages (and may be in the future mo
 - If statement, operators, for, while and do while loops.
 -	Functions, iterators and ranges.
 
-
 I hope this will be a good starting point to learn or if it is your case to teach about programming.
+
+## To learn more about:
+For more about programming see my notes (only in spanish):
+
+- [POO with Python](https://drive.google.com/file/d/1pud53b66uLaWs0rKYCsoqygSnXZqtWLy/view)
+- [Java](https://drive.google.com/file/d/1vpWITquZStqoD-QkaxgsuSkrz3t5tOEY/view)
+- [Algorithms](https://drive.google.com/file/d/1e72w53UL7udKEjXqQ3TDJ7lvyY1VqcqF/view)
+
+To see other learning projects and notes please follow this [link](https://imdiego.dev/projects/projects/notes).
+To see more about my please visit [my webpage](https://imdiego.dev/).
