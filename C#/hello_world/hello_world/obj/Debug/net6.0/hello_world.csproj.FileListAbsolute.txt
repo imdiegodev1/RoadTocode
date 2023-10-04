@@ -1,0 +1,14 @@
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\bin\Debug\net6.0\hello_world.exe
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\bin\Debug\net6.0\hello_world.deps.json
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\bin\Debug\net6.0\hello_world.runtimeconfig.json
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\bin\Debug\net6.0\hello_world.dll
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\bin\Debug\net6.0\hello_world.pdb
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\obj\Debug\net6.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\obj\Debug\net6.0\hello_world.AssemblyInfoInputs.cache
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\obj\Debug\net6.0\hello_world.AssemblyInfo.cs
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\obj\Debug\net6.0\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\obj\Debug\net6.0\hello_world.dll
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\obj\Debug\net6.0\refint\hello_world.dll
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\obj\Debug\net6.0\hello_world.pdb
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\obj\Debug\net6.0\hello_world.genruntimeconfig.cache
+C:\Users\diego\Study\projects\road_to_code\C#\hello_world\hello_world\obj\Debug\net6.0\ref\hello_world.dll
