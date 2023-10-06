@@ -1,0 +1,14 @@
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\bin\Debug\net6.0\Logic_operations.exe
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\bin\Debug\net6.0\Logic_operations.deps.json
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\bin\Debug\net6.0\Logic_operations.runtimeconfig.json
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\bin\Debug\net6.0\Logic_operations.dll
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\bin\Debug\net6.0\Logic_operations.pdb
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\obj\Debug\net6.0\Logic_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\obj\Debug\net6.0\Logic_operations.AssemblyInfoInputs.cache
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\obj\Debug\net6.0\Logic_operations.AssemblyInfo.cs
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\obj\Debug\net6.0\Logic_operations.csproj.CoreCompileInputs.cache
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\obj\Debug\net6.0\Logic_operations.dll
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\obj\Debug\net6.0\refint\Logic_operations.dll
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\obj\Debug\net6.0\Logic_operations.pdb
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\obj\Debug\net6.0\Logic_operations.genruntimeconfig.cache
+C:\Users\diego\Study\projects\py_basics\C#\Logic_operations\Logic_operations\obj\Debug\net6.0\ref\Logic_operations.dll
