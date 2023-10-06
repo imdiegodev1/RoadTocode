@@ -1,0 +1,14 @@
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\bin\Debug\net6.0\Arithmetic_operations.exe
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\bin\Debug\net6.0\Arithmetic_operations.deps.json
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\bin\Debug\net6.0\Arithmetic_operations.runtimeconfig.json
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\bin\Debug\net6.0\Arithmetic_operations.dll
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\bin\Debug\net6.0\Arithmetic_operations.pdb
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net6.0\Arithmetic_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net6.0\Arithmetic_operations.AssemblyInfoInputs.cache
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net6.0\Arithmetic_operations.AssemblyInfo.cs
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net6.0\Arithmetic_operations.csproj.CoreCompileInputs.cache
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net6.0\Arithmetic_operations.dll
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net6.0\refint\Arithmetic_operations.dll
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net6.0\Arithmetic_operations.pdb
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net6.0\Arithmetic_operations.genruntimeconfig.cache
+C:\Users\diego\Study\projects\py_basics\C#\Arithmetic_operations\Arithmetic_operations\obj\Debug\net6.0\ref\Arithmetic_operations.dll
