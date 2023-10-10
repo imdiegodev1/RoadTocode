@@ -1,0 +1,14 @@
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.exe
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.deps.json
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.runtimeconfig.json
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.dll
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.pdb
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.AssemblyInfoInputs.cache
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.AssemblyInfo.cs
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.dll
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\obj\Debug\net6.0\refint\Conditionals.dll
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.pdb
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.genruntimeconfig.cache
+C:\Users\diego\Study\projects\py_basics\C#\Conditionals\Conditionals\obj\Debug\net6.0\ref\Conditionals.dll
